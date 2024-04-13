@@ -1,0 +1,15 @@
+{  
+  "name": "web3-frontiercc",  
+  "version": "3.2.5",  
+  "description": "FRO扩展",  
+  "main": "index.js",  
+  "scripts": {  
+    "test": "echo \"Error: no test specified\" && exit 1"  
+  },  
+  "repository": {  
+    "type": "git",  
+    "url": "https://github.com/zerokongz/web3-frontiercc"  
+  },  
+  "license": "ISC",  
+  "homepage": "https://github.com/zerokongz/web3-frontiercc"  
+}
